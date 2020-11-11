@@ -1,4 +1,4 @@
-# Montrer cacher le mot de passe
+# Montrer cacher le mot de passe :smile:
 
 > A JS exercise use at HEPL for DCC.
 
@@ -13,7 +13,7 @@
 
 ## Énoncé
 
-Dans le cadre de cet exercice, nous vous demandons de montrer/cacher le mot de passe du champ mot de passe. 
+Dans le cadre de cet exercice, nous vous demandons de montrer/cacher le mot de passe du champ mot de passe.
 
 ![](readme.gif)
 
@@ -23,7 +23,3 @@ Dans le cadre de cet exercice, nous vous demandons de montrer/cacher le mot de p
 1. Écoutez le clic sur l'élément `.showPass`.
 1. Changer le type de l'input de `password` vers `text`.
 1. Assurez de pouvoir retourner à l'état initial quand l'utilisateur clique une seconde fois.
-
-
-
-
